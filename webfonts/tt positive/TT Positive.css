@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("TT Positive-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("TT Positive-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("TT Positive-DemiBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("TT Positive-DemiBold-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("TT Positive-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("TT Positive-Bold-Italic.woff2") format("woff2");
+}
