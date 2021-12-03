@@ -1,24 +1,26 @@
 {
-  "Palette": {
-    "Red": {
-      "value": "#ff0000",
-      "type": "color"
-    },
-    "White": {
-      "value": "#ffffff",
-      "type": "color"
-    },
-    "Black": {
-      "value": "#212121",
-      "type": "color"
-    },
-    "Frost": {
-      "value": "#d8e0eb",
-      "type": "color"
-    },
-    "Sky": {
-      "value": "#bccbdd",
-      "type": "color"
+  "Positive": {
+    "Palette": {
+      "Red": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#212121",
+        "type": "color"
+      },
+      "Frost": {
+        "value": "#d8e0eb",
+        "type": "color"
+      },
+      "Sky": {
+        "value": "#bccbdd",
+        "type": "color"
+      }
     }
   }
 }
