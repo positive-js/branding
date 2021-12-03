@@ -19,6 +19,10 @@
     "Sky": {
       "value": "#bccbdd",
       "type": "color"
+    },
+    "Comment": {
+      "value": "#e41c80",
+      "type": "color"
     }
   }
 }
