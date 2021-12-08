@@ -1,0 +1,18 @@
+package-lock.json
+
+# folders
+node_modules/
+
+# IDEs
+/.idea
+/.vscode
+
+# misc
+.DS_Store
+Thumbs.db
+npm-debug.log
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*

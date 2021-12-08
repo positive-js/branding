@@ -1,0 +1,15 @@
+{
+    "name": "@pt/branding",
+    "version": "1.0.0",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/positive-js/branding.git"
+    },
+    "author": "Positive Technologies",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/positive-js/branding/issues"
+    },
+    "homepage": "https://github.com/positive-js/branding#readme"
+}
