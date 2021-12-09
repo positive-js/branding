@@ -1,7 +1,10 @@
 {
     "name": "@pt/branding",
     "version": "1.0.0",
-    "description": "",
+    "description": "Positive Technologies corporate branding assets",
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/positive-js/branding.git"
