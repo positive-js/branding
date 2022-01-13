@@ -1,6 +1,13 @@
 @font-face {
   font-family: 'TT Positive';
   font-style:  normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("TT Positive-Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: 'TT Positive';
+  font-style:  normal;
   font-weight: 400;
   font-display: swap;
   src: url("TT Positive-Regular.woff2") format("woff2");
